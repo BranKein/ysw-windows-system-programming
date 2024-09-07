@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(part-3-13-1 part-3/13-1.cpp)
 add_executable(part-3-13-2 part-3/13-2.cpp)
+add_executable(part-3-13-3 part-3/13-3.cpp)
