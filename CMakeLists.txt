@@ -3,6 +3,7 @@ project(ysw_windows_system_programming)
 
 set(CMAKE_CXX_STANDARD 20)
 
+add_subdirectory(part-2/chapter-7)
 add_subdirectory(part-3/chapter-13)
 add_subdirectory(part-3/chapter-14)
 add_subdirectory(part-3/chapter-15)
